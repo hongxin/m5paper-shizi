@@ -1,0 +1,17 @@
+{
+    "name": "识字·拼音 (Shizi Pinyin)",
+    "description": "一年级上册儿童墨水屏学习卡: 100汉字笔顺(认-写-用) + 63项拼音四声演示. Wi-Fi网络对时, 深睡省电, 进度记忆. Made by Tim",
+    "keywords": "M5Paper, education, kids, chinese, pinyin, e-ink",
+    "author": "Tim",
+    "firmware_category": [
+        {
+            "默认": {
+                "path": "firmware",
+                "device": ["M5Paper"],
+                "default_baud": 460800
+            }
+        }
+    ],
+    "version": "0.1.5",
+    "framework": "ESP-IDF"
+}
